@@ -1,0 +1,26 @@
+{
+  "name": "sup-validator-plugin",
+  "version": "1.0.0",
+  "description": "Validator plugin for Superpowers, the extensible HTML5 2D+3D game engine.",
+  "homepage": "https://github.com/fraxken/superpowers-validator-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fraxken/superpowers-validator-plugin"
+  },
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "validator": "^3.38.0"
+  },
+  "keywords": [
+    "superpowers",
+    "plugin",
+    "validator"
+  ],
+  "bugs": {
+    "url": "https://github.com/fraxken/superpowers-validator-plugin/issues"
+  },
+  "maintainers": [
+    "GENTILHOMME Thomas <gentilhomme.thomas@gmail.com>"
+  ],
+  "license": "MIT"
+}
