@@ -1,6 +1,8 @@
 # superpowers-validator-plugin
 Validator plugin for Superpowers, the extensible HTML5 2D+3D game engine.
 
+A library of string validators and sanitizers.
+
 # Documentation
 
 ### Use validator as usual : 
